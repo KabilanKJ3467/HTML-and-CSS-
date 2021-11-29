@@ -1,0 +1,109 @@
+
+#header
+ {
+    background-color:  rgb(229, 241, 245);
+    position: fixed;
+ }
+ #taskbar
+ {     
+     background-size: 10%;
+     margin-left: 240px;
+     display:inline-block;
+     
+ }
+ #task
+ {
+     list-style: none;
+     background-color:  rgb(229, 241, 245);
+     display: inline-block;
+     font-size: 20px;
+     padding: 20px; 
+     
+ }
+#menu{
+    padding: 20px;
+}
+.page1{
+    background-color: rgb(229, 241, 245);
+    padding-top: 120px;
+   }
+   .page1list{
+    padding:100px;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.detailsform {
+    
+     
+     padding: 30px;
+     background-color:  rgb(255, 255, 255);
+     margin-left: 200px;
+     text-align:center;
+     font-size: medium;
+ }
+#detailsformcontent{
+ font-weight: bolder;
+ font-size: larger;
+}
+#submitbutton{
+    background-color: rgb(245, 105, 12);
+    color: aliceblue;
+    width :90%;
+    height: 40px;
+    text-align: center;
+    font-weight: bolder;
+ font-size: larger;
+  
+ }
+
+ ul{
+     list-style-type:none;
+ }
+
+ #OfficeLocationId{
+padding: 50px;
+border-width: 5px;
+border-color: black;
+font-size: large;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+
+
+  .followus{
+    margin-left: 450px;
+    padding: 50px;
+ }
+ a:hover{
+     color:brown;
+ }
+ a{
+     color: orange;
+ }
+ label{
+     font-weight: bolder;
+     
+ }
+ .footer{
+     margin-left: 600px;
+     font-size:large;
+ }
+ #copyright{
+     
+text-align:center;
+ }
+
+/* Chat Icon Styles */
+#chaticon{
+   
+        position: fixed;
+        bottom: 22px;
+        z-index: 1;
+        float: right;
+        right: 21px;
+        cursor: pointer;
+        vertical-align: middle !important;
+        margin: auto;
+   
+}
+
